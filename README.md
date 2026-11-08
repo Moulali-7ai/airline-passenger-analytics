@@ -102,7 +102,7 @@ An operational analysis covering airline delays, origin and destination airport 
 ## Power BI Dashboard Screenshots
 
 ### 1. 360° Overview
-![360 Overview](visualizations/360_Overview.png)
+![360 Overview](01_360° Overview.png)
 
 ### 2. Executive Overview
 ![Executive Overview](visualizations/Executive_Overview.png)
