@@ -53,7 +53,7 @@ The database contains approximately 85,530 records across five tables.
 | Flights | 2,500 |
 | Bookings | 25,000 |
 | Passenger Surveys | 23,000 |
-| **Total** | **85,530** |
+| **Total** | **75,530** |
 
 **Note:** All datasets used in this project are synthetically generated for educational and analytical purposes. They do not represent actual airline transactions or passenger feedback.
 
@@ -116,13 +116,13 @@ An operational analysis covering airline delays, origin and destination airport 
 ## 🔍 Key Analytical Findings
 
 - The dataset contains 25,000 passengers and 25,000 bookings.
-- The survey dataset contains 23,000 responses.
-- Overall passenger satisfaction rate: 31.38%.
-- On-time flight rate: 52.32%, using the project's threshold of departure delay up to 15 minutes.
-- Average departure delay: approximately 14.60 minutes.
-- Departure and arrival delays show a strong positive correlation in the synthetic dataset.
+- A total of 23,000 passenger survey responses are available.
+- 31.38% of survey respondents were classified as satisfied.
+- 52.32% of flights were classified as on-time, based on the project's departure-delay threshold of 15 minutes or less.
+- Average flight departure delay was approximately 14.60 minutes.
+- Departure and arrival delays exhibited a strong positive correlation in the synthetic dataset.
 
-These findings are descriptive results from the generated dataset and should not be interpreted as actual airline industry performance.
+**Note:** These are descriptive findings from synthetically generated data and should not be interpreted as actual airline industry performance.
 
 ## 💡 Business Recommendations
 
