@@ -99,6 +99,20 @@ An analysis of passenger age groups, gender, travel class, travel type, and sati
 ### 4. Flight Performance
 An operational analysis covering airline delays, origin and destination airport performance, flight status distribution, and departure-versus-arrival delay relationships.
 
+## Power BI Dashboard Screenshots
+
+### 1. 360° Overview
+![360 Overview](visualizations/360_Overview.png)
+
+### 2. Executive Overview
+![Executive Overview](visualizations/Executive_Overview.png)
+
+### 3. Passenger Insights
+![Passenger Insights](visualizations/Passenger_Insights.png)
+
+### 4. Flight Performance
+![Flight Performance](visualizations/Flight_Performance.png)
+
 ## 🔍 Key Analytical Findings
 
 - The dataset contains 25,000 passengers and 25,000 bookings.
