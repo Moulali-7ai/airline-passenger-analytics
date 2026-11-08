@@ -116,16 +116,16 @@ An operational analysis covering airline delays, origin and destination airport 
 ## Power BI Dashboard Screenshots
 
 ### 1. 360° Overview
-![360 Overview](visualizations/360_Overview.png)
+![360 Overview](visualizations/01_360°_Overview.png)
 
 ### 2. Executive Overview
-![Executive Overview](visualizations/Executive_Overview.png)
+![Executive Overview](visualizations/02_Executive_Overview.png)
 
 ### 3. Passenger Insights
-![Passenger Insights](visualizations/Passenger_Insights.png)
+![Passenger Insights](visualizations/03_Passenger_Insights.png)
 
 ### 4. Flight Performance
-![Flight Performance](visualizations/Flight_Performance.png)
+![Flight Performance](visualizations/04_Flight_Performance.png)
 
 ## 🔍 Key Analytical Findings
 
