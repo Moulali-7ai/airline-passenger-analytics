@@ -102,16 +102,30 @@ An operational analysis covering airline delays, origin and destination airport 
 ## Power BI Dashboard Screenshots
 
 ### 1. 360° Overview
-![360 Overview](https://github.com/Moulali-7ai/airline-passenger-analytics/blob/main/01_360%C2%B0%20Overview.png)
+![360 Overview](https://github.com/Moulali-7ai/airline-passenger-analytics/blob/main/visualizations/01_360%C2%B0%20Overview.png)
 
 ### 2. Executive Overview
-![Executive Overview](https://github.com/Moulali-7ai/airline-passenger-analytics/blob/main/02_Executive_Overview.png.png)
+![Executive Overview](https://github.com/Moulali-7ai/airline-passenger-analytics/blob/main/visualizations/02_Executive_Overview.png.png)
 
 ### 3. Passenger Insights
-![Passenger Insights](https://github.com/Moulali-7ai/airline-passenger-analytics/blob/main/02_Executive_Overview.png.png)
+![Passenger Insights](https://github.com/Moulali-7ai/airline-passenger-analytics/blob/main/visualizations/03_Passenger_Insights.png.png)
 
 ### 4. Flight Performance
-![Flight Performance](https://github.com/Moulali-7ai/airline-passenger-analytics/blob/main/04_Flight_Performance.png.png)
+![Flight Performance](https://github.com/Moulali-7ai/airline-passenger-analytics/blob/main/visualizations/04_Flight_Performance.png.png)
+
+## Power BI Dashboard Screenshots
+
+### 1. 360° Overview
+![360 Overview](visualizations/360_Overview.png)
+
+### 2. Executive Overview
+![Executive Overview](visualizations/Executive_Overview.png)
+
+### 3. Passenger Insights
+![Passenger Insights](visualizations/Passenger_Insights.png)
+
+### 4. Flight Performance
+![Flight Performance](visualizations/Flight_Performance.png)
 
 ## 🔍 Key Analytical Findings
 
