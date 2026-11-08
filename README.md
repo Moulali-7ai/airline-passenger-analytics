@@ -105,13 +105,13 @@ An operational analysis covering airline delays, origin and destination airport 
 ![360 Overview](https://github.com/Moulali-7ai/airline-passenger-analytics/blob/main/01_360%C2%B0%20Overview.png)
 
 ### 2. Executive Overview
-![Executive Overview](visualizations/Executive_Overview.png)
+![Executive Overview](https://github.com/Moulali-7ai/airline-passenger-analytics/blob/main/02_Executive_Overview.png.png)
 
 ### 3. Passenger Insights
-![Passenger Insights](visualizations/Passenger_Insights.png)
+![Passenger Insights](https://github.com/Moulali-7ai/airline-passenger-analytics/blob/main/02_Executive_Overview.png.png)
 
 ### 4. Flight Performance
-![Flight Performance](visualizations/Flight_Performance.png)
+![Flight Performance](https://github.com/Moulali-7ai/airline-passenger-analytics/blob/main/04_Flight_Performance.png.png)
 
 ## 🔍 Key Analytical Findings
 
