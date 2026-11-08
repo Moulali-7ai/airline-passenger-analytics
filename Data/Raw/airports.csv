@@ -1,0 +1,31 @@
+Airport_ID,Airport_Code,Airport_Name,City_Name,Country_Name
+1,HYD,Rajiv Gandhi International Airport,Hyderabad,India
+2,DEL,Indira Gandhi International Airport,Delhi,India
+3,BOM,Chhatrapati Shivaji Maharaj International Airport,Mumbai,India
+4,BLR,Kempegowda International Airport,Bengaluru,India
+5,MAA,Chennai International Airport,Chennai,India
+6,CCU,Netaji Subhas Chandra Bose International Airport,Kolkata,India
+7,COK,Cochin International Airport,Kochi,India
+8,AMD,Sardar Vallabhbhai Patel International Airport,Ahmedabad,India
+9,PNQ,Pune Airport,Pune,India
+10,GOI,Manohar International Airport,Goa,India
+11,JAI,Jaipur International Airport,Jaipur,India
+12,LKO,Chaudhary Charan Singh International Airport,Lucknow,India
+13,DXB,Dubai International Airport,Dubai,UAE
+14,AUH,Zayed International Airport,Abu Dhabi,UAE
+15,DOH,Hamad International Airport,Doha,Qatar
+16,SIN,Singapore Changi Airport,Singapore,Singapore
+17,LHR,Heathrow Airport,London,United Kingdom
+18,JFK,John F. Kennedy International Airport,New York,USA
+19,LAX,Los Angeles International Airport,Los Angeles,USA
+20,CDG,Charles de Gaulle Airport,Paris,France
+21,FRA,Frankfurt Airport,Frankfurt,Germany
+22,HND,Haneda Airport,Tokyo,Japan
+23,NRT,Narita International Airport,Tokyo,Japan
+24,SYD,Sydney Airport,Sydney,Australia
+25,MEL,Melbourne Airport,Melbourne,Australia
+26,YYZ,Toronto Pearson International Airport,Toronto,Canada
+27,ICN,Incheon International Airport,Seoul,South Korea
+28,KUL,Kuala Lumpur International Airport,Kuala Lumpur,Malaysia
+29,IST,Istanbul Airport,Istanbul,Turkey
+30,CPT,Cape Town International Airport,Cape Town,South Africa
